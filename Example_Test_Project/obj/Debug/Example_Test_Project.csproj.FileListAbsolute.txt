@@ -1,0 +1,16 @@
+C:\Users\cahe\source\repos\Example_Test_Project\bin\Debug\Example_Test_Project.exe
+C:\Users\cahe\source\repos\Example_Test_Project\bin\Debug\Example_Test_Project.pdb
+C:\Users\cahe\source\repos\Example_Test_Project\bin\Debug\Tekla.Structures.Datatype.dll
+C:\Users\cahe\source\repos\Example_Test_Project\bin\Debug\Tekla.Structures.dll
+C:\Users\cahe\source\repos\Example_Test_Project\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\cahe\source\repos\Example_Test_Project\bin\Debug\Tekla.Structures.xml
+C:\Users\cahe\source\repos\Example_Test_Project\bin\Debug\Tekla.Structures.Datatype.xml
+C:\Users\cahe\source\repos\Example_Test_Project\bin\Debug\Tekla.Structures.Model.xml
+C:\Users\cahe\source\repos\Example_Test_Project\obj\Debug\Example_Test_Project.csprojAssemblyReference.cache
+C:\Users\cahe\source\repos\Example_Test_Project\obj\Debug\Example_Test_Project.Form1.resources
+C:\Users\cahe\source\repos\Example_Test_Project\obj\Debug\Example_Test_Project.Properties.Resources.resources
+C:\Users\cahe\source\repos\Example_Test_Project\obj\Debug\Example_Test_Project.csproj.GenerateResource.cache
+C:\Users\cahe\source\repos\Example_Test_Project\obj\Debug\Example_Test_Project.csproj.CoreCompileInputs.cache
+C:\Users\cahe\source\repos\Example_Test_Project\obj\Debug\Example_Test_Project.csproj.CopyComplete
+C:\Users\cahe\source\repos\Example_Test_Project\obj\Debug\Example_Test_Project.exe
+C:\Users\cahe\source\repos\Example_Test_Project\obj\Debug\Example_Test_Project.pdb
