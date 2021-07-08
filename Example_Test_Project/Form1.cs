@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
+using Tekla.Structures.Geometry3d;
 using Tekla.Structures.Model;
 
 namespace Example_Test_Project
@@ -25,7 +26,18 @@ namespace Example_Test_Project
 
                 var moe = new Model().GetModelObjectSelector().GetAllObjectsWithType(ModelObject.ModelObjectEnum.BEAM);
 
-                if (moe.GetSize() < 10)
+                if (!(moe.GetSize() == 4237))
+                {
+                    CloseTestAppNotConnected();
+                    return;
+                }
+
+                Beam newBeam = new Beam(new Point(0, 0, 0), new Point(100, 0, 0));
+                newBeam.Profile.ProfileString = "HEA100";
+                bool resultInsert = newBeam.Insert();
+                bool resultDelete = newBeam.Delete();
+
+                if (!(resultInsert && resultDelete))
                 {
                     CloseTestAppNotConnected();
                     return;
@@ -56,7 +68,6 @@ namespace Example_Test_Project
         private void button3_Click(object sender, EventArgs e)
         {
             Model myModel = new Model();
-
         }
 
         private void button4_Click(object sender, EventArgs e)

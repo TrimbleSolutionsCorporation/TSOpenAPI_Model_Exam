@@ -112,6 +112,7 @@
             this.Controls.Add(this.buttonTest);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.TopMost = true;
             this.ResumeLayout(false);
             this.PerformLayout();
 
