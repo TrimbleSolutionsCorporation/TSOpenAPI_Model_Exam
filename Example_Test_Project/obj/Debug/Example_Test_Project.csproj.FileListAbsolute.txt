@@ -16,17 +16,9 @@ C:\Users\cahe\source\repos\Example_Test_Project\obj\Debug\Example_Test_Project.e
 C:\Users\cahe\source\repos\Example_Test_Project\obj\Debug\Example_Test_Project.pdb
 C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\bin\Debug\Example_Test_Project.exe
 C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\bin\Debug\Example_Test_Project.pdb
-C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\bin\Debug\Tekla.Structures.Datatype.dll
-C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\bin\Debug\Tekla.Structures.dll
-C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\bin\Debug\Tekla.Structures.Model.dll
-C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\bin\Debug\Tekla.Structures.xml
-C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\bin\Debug\Tekla.Structures.Datatype.xml
-C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\bin\Debug\Tekla.Structures.Model.xml
-C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\obj\Debug\Example_Test_Project.csprojAssemblyReference.cache
 C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\obj\Debug\Example_Test_Project.Form1.resources
 C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\obj\Debug\Example_Test_Project.Properties.Resources.resources
 C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\obj\Debug\Example_Test_Project.csproj.GenerateResource.cache
 C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\obj\Debug\Example_Test_Project.csproj.CoreCompileInputs.cache
-C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\obj\Debug\Example_Test_Project.csproj.CopyComplete
 C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\obj\Debug\Example_Test_Project.exe
 C:\git\TrimbleSolutionsCorporation\TSOpenAPI_Model_Exam\Example_Test_Project\obj\Debug\Example_Test_Project.pdb
